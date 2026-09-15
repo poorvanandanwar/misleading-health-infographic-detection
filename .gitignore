@@ -11,28 +11,64 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Datasets
-data/raw/
-data/interim/
-data/processed/
+# IDE
+.vscode/
+.idea/
 
-# Model checkpoints
-models/*.pt
-models/*.pth
-models/*.bin
-models/*.safetensors
-
-# Experiment outputs
-results/
-experiments/
-
-# Environment
-.env
+# Python cache
+.pytest_cache/
 
 # OS
 .DS_Store
 Thumbs.db
 
-# IDE
-.vscode/
-.idea/
+# Secrets / environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Large model/checkpoint files
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.bin
+
+# Paddle/PaddleOCR downloaded models
+.paddlex/
+.paddleocr/
+
+# Temporary files
+data/raw/temp/
+data/interim/temp/
+*.tmp
+
+# =========================================================
+# DATASETS / LARGE GENERATED DATA
+# =========================================================
+
+# Raw downloaded datasets
+data/raw/
+
+# Large processed datasets
+data/processed/
+
+# Keep lightweight manifests
+!data/manifests/
+!data/manifests/*.csv
+
+# Ignore large CSV/TSV files everywhere else
+*.csv
+*.tsv
+
+# Keep Phase 1/3/4 summary files
+!data/interim/phase1/
+!data/interim/phase1/*.csv
+!data/interim/phase3/
+!data/interim/phase3/*.csv
+!data/interim/phase4/
+!data/interim/phase4/*.csv

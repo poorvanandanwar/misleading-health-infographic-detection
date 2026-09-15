@@ -1,0 +1,2 @@
+total_records,successful_ocr,empty_ocr,error_records,average_characters,average_words,average_text_elements,average_processing_time_sec
+50,50,0,0,351.52,64.14,30.1,23.38658
