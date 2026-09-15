@@ -1,0 +1,7 @@
+split,question_type,question_count
+test,augmented,1250
+test,human,1250
+train,augmented,20901
+train,human,7398
+val,augmented,960
+val,human,960

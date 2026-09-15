@@ -1,0 +1,8 @@
+source_dataset,original_label,standardized_label,binary_target,count
+HealthFC,0,supported,0.0,202
+HealthFC,1,not_enough_information,,423
+HealthFC,2,refuted,1.0,125
+PubHealth,false,refuted,1.0,3769
+PubHealth,mixture,mixture,,1799
+PubHealth,true,supported,0.0,6306
+PubHealth,unproven,not_enough_information,,377

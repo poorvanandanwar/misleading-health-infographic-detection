@@ -1,0 +1,4 @@
+dataset,train_samples,validation_samples,test_samples,total_samples
+PubHealth,9832,1221,1235,12288
+HealthFC,,,,750
+ChartQA,36636,2114,3020,41770

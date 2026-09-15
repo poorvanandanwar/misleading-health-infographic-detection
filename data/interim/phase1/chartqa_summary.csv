@@ -1,0 +1,4 @@
+dataset,split,file_count
+ChartQA,train,36636
+ChartQA,val,2114
+ChartQA,test,3020

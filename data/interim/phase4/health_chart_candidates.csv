@@ -1,0 +1,1 @@
+sample_id,source_dataset,task_type,split,image_name,image_path,ocr_text,text_element_count,claim_text,evidence_text,explanation,question,answer,question_type,original_label,standardized_label,binary_target,health_keywords
