@@ -1,0 +1,12 @@
+{
+    "original_total_records": 10402,
+    "cross_split_duplicate_groups": 2,
+    "rows_removed": 2,
+    "cleaned_total_records": 10400,
+    "remaining_cross_split_groups": 0,
+    "split_counts": {
+        "train": 8308,
+        "validation": 1058,
+        "test": 1034
+    }
+}

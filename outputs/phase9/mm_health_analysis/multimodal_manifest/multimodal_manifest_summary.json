@@ -1,0 +1,12 @@
+{
+    "total_records": 5776,
+    "train_records": 4043,
+    "validation_records": 866,
+    "test_records": 867,
+    "label_distribution": {
+        "1": 4650,
+        "0": 1126
+    },
+    "duplicate_image_paths": 0,
+    "empty_text_records": 0
+}

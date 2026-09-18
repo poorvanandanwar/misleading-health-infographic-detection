@@ -1,0 +1,32 @@
+{
+    "total_records": 11552,
+    "columns": [
+        "split",
+        "subset",
+        "id",
+        "index",
+        "label",
+        "source",
+        "is_english",
+        "original_image",
+        "image_keys",
+        "text_keys",
+        "record_key"
+    ],
+    "subset_distribution": {
+        "MMCoVar": 3196,
+        "Med-MMHL": 2832,
+        "ReCOVery": 2766,
+        "MM-COVID19": 2758
+    },
+    "split_distribution": {
+        "train": 5776,
+        "test": 5776
+    },
+    "label_distribution": {
+        "1": 9300,
+        "0": 2252
+    },
+    "duplicate_subset_id_records": 11552,
+    "cross_split_overlap_keys": 5776
+}

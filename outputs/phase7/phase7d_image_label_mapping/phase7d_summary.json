@@ -1,0 +1,6 @@
+{
+    "pubhealth_tsv_files": 3,
+    "chartqa_json_files": 6,
+    "pubhealth_report": "C:\\Users\\aditi\\Desktop\\DL PROJECT\\misleading-health-infographic-detection\\outputs\\phase7\\phase7d_image_label_mapping\\pubhealth_mapping_report.csv",
+    "chartqa_report": "C:\\Users\\aditi\\Desktop\\DL PROJECT\\misleading-health-infographic-detection\\outputs\\phase7\\phase7d_image_label_mapping\\chartqa_json_report.csv"
+}

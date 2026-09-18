@@ -1,0 +1,20 @@
+{
+    "phase": "6C",
+    "title": "Qualitative Error Analysis",
+    "total_errors": 162,
+    "false_positives": 113,
+    "false_negatives": 49,
+    "source_distribution": {
+        "PubHealth": 150,
+        "HealthFC": 12
+    },
+    "error_pattern_distribution": {
+        "Uncertainty or hedging language": 128,
+        "Numerical or statistical claim": 13,
+        "Causal relationship language": 12,
+        "Strong or exaggerated claim language": 5,
+        "Comparative claim": 3,
+        "Short or context-limited claim": 1
+    },
+    "high_confidence_errors": 17
+}

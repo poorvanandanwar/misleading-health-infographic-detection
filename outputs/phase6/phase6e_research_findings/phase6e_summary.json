@@ -1,0 +1,43 @@
+{
+    "phase": "6E",
+    "description": "Research findings and interpretation",
+    "source_wise_findings": [
+        {
+            "source": "HealthFC",
+            "total_samples": 49,
+            "total_errors": 12,
+            "accuracy": 0.7551,
+            "precision": 1.0,
+            "recall": 0.3333,
+            "f1_score": 0.5
+        },
+        {
+            "source": "PubHealth",
+            "total_samples": 985,
+            "total_errors": 150,
+            "accuracy": 0.8477,
+            "precision": 0.7565,
+            "recall": 0.9046,
+            "f1_score": 0.8239
+        }
+    ],
+    "high_confidence_error_count": 17,
+    "limitations_identified": [
+        "The model relies primarily on textual features and may not fully capture visual infographic information.",
+        "False positives indicate that supported claims can be classified as misleading.",
+        "False negatives indicate that misleading claims can be classified as supported.",
+        "Source-wise performance may be unstable for sources with relatively few test samples.",
+        "Heuristic linguistic patterns do not establish that a particular language pattern causes classification errors.",
+        "High-confidence incorrect predictions indicate that model confidence should not be treated as a guarantee of correctness.",
+        "The model may have difficulty interpreting context, uncertainty, numerical claims, and causal language."
+    ],
+    "potential_improvements": [
+        "Incorporate visual features from infographic images.",
+        "Investigate multimodal fusion of image and text representations.",
+        "Perform deeper manual annotation of false positives and false negatives.",
+        "Evaluate transformer-based text encoders.",
+        "Apply calibration methods to improve probability reliability.",
+        "Perform additional cross-source and cross-domain validation.",
+        "Use explainability methods to investigate important textual and visual features."
+    ]
+}

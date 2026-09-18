@@ -1,0 +1,43 @@
+{
+    "total_records": 10402,
+    "duplicate_sample_id_rows": 0,
+    "duplicate_claim_rows": 18,
+    "cross_split_duplicate_claim_rows": 4,
+    "low_overlap_candidates": 8546,
+    "non_health_candidates": 5517,
+    "reused_evidence_entries": 181,
+    "missing_values": {
+        "sample_id": {
+            "missing_count": 0,
+            "empty_count": 0
+        },
+        "source_dataset": {
+            "missing_count": 0,
+            "empty_count": 0
+        },
+        "split": {
+            "missing_count": 0,
+            "empty_count": 0
+        },
+        "claim_text": {
+            "missing_count": 0,
+            "empty_count": 0
+        },
+        "evidence_text": {
+            "missing_count": 0,
+            "empty_count": 0
+        },
+        "model_text": {
+            "missing_count": 0,
+            "empty_count": 0
+        },
+        "standardized_label": {
+            "missing_count": 0,
+            "empty_count": 0
+        },
+        "binary_target": {
+            "missing_count": 0,
+            "empty_count": 0
+        }
+    }
+}

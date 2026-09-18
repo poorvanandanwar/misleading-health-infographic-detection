@@ -1,0 +1,25 @@
+{
+    "phase": "6D",
+    "phase_name": "Manual Inspection and Visualization",
+    "input_directories": {
+        "phase6b": "C:\\Users\\aditi\\Desktop\\DL PROJECT\\misleading-health-infographic-detection\\outputs\\phase6\\phase6b_source_wise_error_analysis",
+        "phase6c": "C:\\Users\\aditi\\Desktop\\DL PROJECT\\misleading-health-infographic-detection\\outputs\\phase6\\phase6c_qualitative_error_analysis"
+    },
+    "output_directory": "C:\\Users\\aditi\\Desktop\\DL PROJECT\\misleading-health-infographic-detection\\outputs\\phase6\\phase6d_manual_inspection_visualization",
+    "files_generated": [
+        "confidence_error_distribution.png",
+        "confidence_error_rate_summary.csv",
+        "error_pattern_distribution.png",
+        "error_type_by_source.png",
+        "phase6d_error_type_summary.csv",
+        "phase6d_high_confidence_errors.csv",
+        "phase6d_manual_inspection_report.md",
+        "phase6d_source_wise_summary.csv",
+        "source_error_comparison.png"
+    ],
+    "notes": [
+        "Qualitative error patterns are heuristic.",
+        "High-confidence errors should be manually reviewed.",
+        "Source-wise conclusions should consider sample size."
+    ]
+}

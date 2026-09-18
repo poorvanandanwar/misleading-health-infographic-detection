@@ -1,0 +1,41 @@
+{
+    "train": {
+        "columns": [
+            "image",
+            "bboxes",
+            "category_id",
+            "segmentation",
+            "area",
+            "pdf_cells",
+            "metadata",
+            "pdf",
+            "modalities"
+        ]
+    },
+    "validation": {
+        "columns": [
+            "image",
+            "bboxes",
+            "category_id",
+            "segmentation",
+            "area",
+            "pdf_cells",
+            "metadata",
+            "pdf",
+            "modalities"
+        ]
+    },
+    "test": {
+        "columns": [
+            "image",
+            "bboxes",
+            "category_id",
+            "segmentation",
+            "area",
+            "pdf_cells",
+            "metadata",
+            "pdf",
+            "modalities"
+        ]
+    }
+}

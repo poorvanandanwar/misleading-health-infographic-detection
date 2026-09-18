@@ -1,0 +1,578 @@
+[
+    {
+        "split": "train",
+        "subset": "Med-MMHL",
+        "id": 1044,
+        "label": 1,
+        "source": "Med-MMHL",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "train",
+        "subset": "Med-MMHL",
+        "id": 3272,
+        "label": 1,
+        "source": "Med-MMHL",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "train",
+        "subset": "Med-MMHL",
+        "id": 3403,
+        "label": 1,
+        "source": "Med-MMHL",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "train",
+        "subset": "MM-COVID19",
+        "id": 8268,
+        "label": 1,
+        "source": "MM-COVID19",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "train",
+        "subset": "MM-COVID19",
+        "id": 9043,
+        "label": 0,
+        "source": "MM-COVID19",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "train",
+        "subset": "MM-COVID19",
+        "id": 8997,
+        "label": 0,
+        "source": "MM-COVID19",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "train",
+        "subset": "ReCOVery",
+        "id": 1284,
+        "label": 1,
+        "source": "ReCOVery",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "train",
+        "subset": "ReCOVery",
+        "id": 860,
+        "label": 1,
+        "source": "ReCOVery",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "train",
+        "subset": "ReCOVery",
+        "id": 921,
+        "label": 1,
+        "source": "ReCOVery",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "train",
+        "subset": "MMCoVar",
+        "id": 984,
+        "label": 1,
+        "source": "MMCoVar",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "train",
+        "subset": "MMCoVar",
+        "id": 864,
+        "label": 1,
+        "source": "MMCoVar",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "train",
+        "subset": "MMCoVar",
+        "id": 1275,
+        "label": 1,
+        "source": "MMCoVar",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "test",
+        "subset": "Med-MMHL",
+        "id": 1044,
+        "label": 1,
+        "source": "Med-MMHL",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "test",
+        "subset": "Med-MMHL",
+        "id": 3272,
+        "label": 1,
+        "source": "Med-MMHL",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "test",
+        "subset": "Med-MMHL",
+        "id": 3403,
+        "label": 1,
+        "source": "Med-MMHL",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "test",
+        "subset": "MM-COVID19",
+        "id": 8268,
+        "label": 1,
+        "source": "MM-COVID19",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "test",
+        "subset": "MM-COVID19",
+        "id": 9043,
+        "label": 0,
+        "source": "MM-COVID19",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "test",
+        "subset": "MM-COVID19",
+        "id": 8997,
+        "label": 0,
+        "source": "MM-COVID19",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "test",
+        "subset": "ReCOVery",
+        "id": 1284,
+        "label": 1,
+        "source": "ReCOVery",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "test",
+        "subset": "ReCOVery",
+        "id": 860,
+        "label": 1,
+        "source": "ReCOVery",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "test",
+        "subset": "ReCOVery",
+        "id": 921,
+        "label": 1,
+        "source": "ReCOVery",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "test",
+        "subset": "MMCoVar",
+        "id": 984,
+        "label": 1,
+        "source": "MMCoVar",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "test",
+        "subset": "MMCoVar",
+        "id": 864,
+        "label": 1,
+        "source": "MMCoVar",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    },
+    {
+        "split": "test",
+        "subset": "MMCoVar",
+        "id": 1275,
+        "label": 1,
+        "source": "MMCoVar",
+        "is_english": true,
+        "image_keys": [
+            "flux",
+            "original",
+            "pag",
+            "sd15",
+            "sdxl",
+            "vae"
+        ],
+        "text_keys": [
+            "chatglm4",
+            "gemma2",
+            "llama3.1",
+            "mistral",
+            "original",
+            "qwen2.5"
+        ]
+    }
+]

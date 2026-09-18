@@ -72,3 +72,9 @@ data/processed/
 !data/interim/phase3/*.csv
 !data/interim/phase4/
 !data/interim/phase4/*.csv
+
+# Phase 10 generated image datasets
+outputs/phase10/images/
+outputs/phase10/clean_images/
+outputs/phase10/clean_images_v2/
+outputs/phase10/test_images/

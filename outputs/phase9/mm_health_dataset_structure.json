@@ -1,0 +1,18 @@
+{
+    "train": {
+        "columns": [
+            "Med-MMHL",
+            "MM-COVID19",
+            "ReCOVery",
+            "MMCoVar"
+        ]
+    },
+    "test": {
+        "columns": [
+            "Med-MMHL",
+            "MM-COVID19",
+            "ReCOVery",
+            "MMCoVar"
+        ]
+    }
+}

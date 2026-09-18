@@ -1,0 +1,44 @@
+[
+    {
+        "experiment": "claim_only",
+        "validation_accuracy": 0.7665406427221172,
+        "validation_precision": 0.6666666666666666,
+        "validation_recall": 0.7619047619047619,
+        "validation_f1": 0.7111111111111111,
+        "validation_auroc": 0.8393974313629293,
+        "test_accuracy": 0.7557915057915058,
+        "test_precision": 0.6617336152219874,
+        "test_recall": 0.770935960591133,
+        "test_f1": 0.7121729237770194,
+        "test_auroc": 0.8384197357103761,
+        "number_of_features": 18517
+    },
+    {
+        "experiment": "evidence_only",
+        "validation_accuracy": 0.8761814744801513,
+        "validation_precision": 0.8018018018018018,
+        "validation_recall": 0.8922305764411027,
+        "validation_f1": 0.8446026097271648,
+        "validation_auroc": 0.9418500728300265,
+        "test_accuracy": 0.8388030888030888,
+        "test_precision": 0.7537154989384289,
+        "test_recall": 0.874384236453202,
+        "test_f1": 0.8095781071835804,
+        "test_auroc": 0.9210767065446868,
+        "number_of_features": 50000
+    },
+    {
+        "experiment": "claim_evidence",
+        "validation_accuracy": 0.8771266540642723,
+        "validation_precision": 0.806378132118451,
+        "validation_recall": 0.8872180451127819,
+        "validation_f1": 0.8448687350835322,
+        "validation_auroc": 0.9429986194621608,
+        "test_accuracy": 0.8436293436293436,
+        "test_precision": 0.7595744680851064,
+        "test_recall": 0.8793103448275862,
+        "test_f1": 0.815068493150685,
+        "test_auroc": 0.9209828759089843,
+        "number_of_features": 50000
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "split": "train",
+        "subset": "Med-MMHL",
+        "record_id": "1044",
+        "image_reference": "human_data/Med-MMHL-merge/403_0.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "train",
+        "subset": "Med-MMHL",
+        "record_id": "3272",
+        "image_reference": "human_data/Med-MMHL-merge/1011_0_1.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "train",
+        "subset": "Med-MMHL",
+        "record_id": "3403",
+        "image_reference": "human_data/Med-MMHL-merge/887_0_1.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "train",
+        "subset": "MM-COVID19",
+        "record_id": "8268",
+        "image_reference": "human_data/MM-COVID19/8268_6.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "train",
+        "subset": "MM-COVID19",
+        "record_id": "9043",
+        "image_reference": "human_data/MM-COVID19/9043_8.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "train",
+        "subset": "MM-COVID19",
+        "record_id": "8997",
+        "image_reference": "human_data/MM-COVID19/8997_0.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "train",
+        "subset": "ReCOVery",
+        "record_id": "1284",
+        "image_reference": "human_data/ReCOVery/1284.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "train",
+        "subset": "ReCOVery",
+        "record_id": "860",
+        "image_reference": "human_data/ReCOVery/860.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "train",
+        "subset": "ReCOVery",
+        "record_id": "921",
+        "image_reference": "human_data/ReCOVery/921.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "train",
+        "subset": "MMCoVar",
+        "record_id": "984",
+        "image_reference": "human_data/MMCoVar/984.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "train",
+        "subset": "MMCoVar",
+        "record_id": "864",
+        "image_reference": "human_data/MMCoVar/864.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "train",
+        "subset": "MMCoVar",
+        "record_id": "1275",
+        "image_reference": "human_data/MMCoVar/1275.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "test",
+        "subset": "Med-MMHL",
+        "record_id": "1044",
+        "image_reference": "human_data/Med-MMHL-merge/403_0.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "test",
+        "subset": "Med-MMHL",
+        "record_id": "3272",
+        "image_reference": "human_data/Med-MMHL-merge/1011_0_1.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "test",
+        "subset": "Med-MMHL",
+        "record_id": "3403",
+        "image_reference": "human_data/Med-MMHL-merge/887_0_1.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "test",
+        "subset": "MM-COVID19",
+        "record_id": "8268",
+        "image_reference": "human_data/MM-COVID19/8268_6.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "test",
+        "subset": "MM-COVID19",
+        "record_id": "9043",
+        "image_reference": "human_data/MM-COVID19/9043_8.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "test",
+        "subset": "MM-COVID19",
+        "record_id": "8997",
+        "image_reference": "human_data/MM-COVID19/8997_0.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "test",
+        "subset": "ReCOVery",
+        "record_id": "1284",
+        "image_reference": "human_data/ReCOVery/1284.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "test",
+        "subset": "ReCOVery",
+        "record_id": "860",
+        "image_reference": "human_data/ReCOVery/860.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "test",
+        "subset": "ReCOVery",
+        "record_id": "921",
+        "image_reference": "human_data/ReCOVery/921.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "test",
+        "subset": "MMCoVar",
+        "record_id": "984",
+        "image_reference": "human_data/MMCoVar/984.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "test",
+        "subset": "MMCoVar",
+        "record_id": "864",
+        "image_reference": "human_data/MMCoVar/864.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    },
+    {
+        "split": "test",
+        "subset": "MMCoVar",
+        "record_id": "1275",
+        "image_reference": "human_data/MMCoVar/1275.jpg",
+        "reference_type": "str",
+        "accessible": false,
+        "error": "Image path is not available locally"
+    }
+]
