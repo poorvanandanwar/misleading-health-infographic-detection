@@ -72,3 +72,23 @@ data/processed/
 !data/interim/phase3/*.csv
 !data/interim/phase4/
 !data/interim/phase4/*.csv
+
+# Python virtual environments
+.venv/
+.venv_tf/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project-generated outputs
+outputs/
+
+# Local environment files
+.env
+.env.*
