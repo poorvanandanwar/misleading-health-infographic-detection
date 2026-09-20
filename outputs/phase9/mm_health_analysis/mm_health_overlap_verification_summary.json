@@ -1,0 +1,13 @@
+{
+    "total_records": 11552,
+    "exact_duplicate_rows": 0,
+    "train_unique_keys": 5776,
+    "test_unique_keys": 5776,
+    "overlapping_keys": 5776,
+    "overlap_image_count_distribution": {
+        "1": 5776
+    },
+    "overlap_label_count_distribution": {
+        "1": 5776
+    }
+}

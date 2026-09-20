@@ -1,0 +1,11 @@
+{
+    "metadata_files_found": 9,
+    "candidate_files_found": 9,
+    "extension_counts": {
+        ".json": 6,
+        ".tsv": 3
+    },
+    "files_with_image_keywords": 8,
+    "files_with_label_keywords": 9,
+    "files_with_both_image_and_label_keywords": 8
+}

@@ -1,0 +1,44 @@
+{
+    "phase": "6B",
+    "title": "Source-Wise Error Analysis",
+    "train_records": 8308,
+    "validation_records": 1058,
+    "test_records": 1034,
+    "total_test_errors": 162,
+    "false_positives": 113,
+    "false_negatives": 49,
+    "source_metrics": [
+        {
+            "source_dataset": "HealthFC",
+            "total_samples": 49,
+            "correct_predictions": 37,
+            "total_errors": 12,
+            "false_positives": 0,
+            "false_negatives": 12,
+            "true_negatives": 31,
+            "true_positives": 6,
+            "accuracy": 0.7551020408163265,
+            "precision": 1.0,
+            "recall": 0.3333333333333333,
+            "f1_score": 0.5,
+            "roc_auc": 0.6738351254480287,
+            "mean_probability_positive": 0.37179126595519346
+        },
+        {
+            "source_dataset": "PubHealth",
+            "total_samples": 985,
+            "correct_predictions": 835,
+            "total_errors": 150,
+            "false_positives": 113,
+            "false_negatives": 37,
+            "true_negatives": 484,
+            "true_positives": 351,
+            "accuracy": 0.8477157360406091,
+            "precision": 0.7564655172413793,
+            "recall": 0.904639175257732,
+            "f1_score": 0.823943661971831,
+            "roc_auc": 0.9280811272859141,
+            "mean_probability_positive": 0.4595100817072365
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "phase": "6A",
+    "description": "Source-wise evaluation of cleaned TF-IDF model",
+    "train_records": 8308,
+    "validation_records": 1058,
+    "test_records": 1034,
+    "number_of_sources": 2,
+    "output_files": [
+        "C:\\Users\\aditi\\Desktop\\DL PROJECT\\misleading-health-infographic-detection\\outputs\\phase6\\phase6a_source_wise_evaluation\\source_wise_metrics.csv",
+        "C:\\Users\\aditi\\Desktop\\DL PROJECT\\misleading-health-infographic-detection\\outputs\\phase6\\phase6a_source_wise_evaluation\\source_wise_confusion_matrices.csv"
+    ]
+}

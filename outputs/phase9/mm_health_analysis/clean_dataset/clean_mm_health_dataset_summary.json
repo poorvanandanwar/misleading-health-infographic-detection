@@ -1,0 +1,14 @@
+{
+    "original_records": 11552,
+    "unique_records": 5776,
+    "train_records": 4043,
+    "validation_records": 866,
+    "test_records": 867,
+    "train_validation_overlap": 0,
+    "train_test_overlap": 0,
+    "validation_test_overlap": 0,
+    "label_distribution": {
+        "1": 4650,
+        "0": 1126
+    }
+}
